@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">project 1</string>
+    <string name="total">Total</string>
+    <string name="calculate">calculate</string>
+    <string name="second_number">Second number</string>
+    <string name="calculator">calculator</string>
+    <string name="second_numberr">Second Number</string>
+    <string name="button">Button</string>
+    <string name="first_number">First Number</string>
+</resources>
